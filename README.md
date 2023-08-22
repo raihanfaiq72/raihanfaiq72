@@ -2,9 +2,13 @@
 
 Perkenalkan nama saya **Muhammad Faiq Raihan** bisa dipanggil **Faiq**
 
-Saya seorang **Junior Backend Developer**\
+Saya seorang **Junior Backend Developer**
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/raihanfaiq)ku ya.
+Saat ini saya menempuh pendidikan S1 Teknik Informatika di Univeristas Dian Nuswantoro Semarang dan S1 Matematika murni di Universitas Diponegoro Semarang .
+
+Sangat Menyukai Laravel Framework sebagai basis pembuatan aplikasi berbasis web .
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/raihanfaiq)-ku ya.
 
 <p align="left">
 <a href="https://github.com/raihanfaiq72">
